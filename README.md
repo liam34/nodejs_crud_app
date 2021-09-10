@@ -1,5 +1,5 @@
 # nodejs_crud_app
-user management app using node.js and mongoDb database
+user management app using node.js express and mongoDb database
 
 #configure package.json
 
