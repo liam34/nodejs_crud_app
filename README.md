@@ -4,7 +4,7 @@ user management app using node.js and mongoDb database
 #configure package.json
 
 # install node module
-npm i express morgan nodemon ejs body-parser dotenv mongoose azios
+npm i express morgan nodemon ejs body-parser dotenv mongoose axios
 
 #connect mongoDB 
 change config.env database connection mongodb_uri
