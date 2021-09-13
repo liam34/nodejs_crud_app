@@ -7,7 +7,7 @@ user management app using node.js express and mongoDb database
 npm i express morgan nodemon ejs body-parser dotenv mongoose axios
 
 #connect mongoDB 
-change config.env database connection mongodb_uri
+change config.env database connection mongodb_uri apply username, password and database name
 
 #deploy to localhost:3000
 npm run start
